@@ -25,7 +25,7 @@ Resources about product management that are worth curating
 - [Empowered: Ordinary People, Extraordinary Products (Silicon Valley Product Group)](https://www.amazon.com/EMPOWERED-Ordinary-Extraordinary-Products-Silicon/dp/111969129X)
 ### Mindset
 - High Agency:
-	- [[7 Habits of Highly Effective People]]
+	- [7 Habits of Highly Effective People](https://en.wikipedia.org/wiki/The_7_Habits_of_Highly_Effective_People)
 	- [High Agency - Pathik Shah](https://www.pathikshah.com/high-agency)
 	- [Real talk about high agency! - Shreyas Doshi](https://www.youtube.com/watch?v=kpsDAoQH1uw) - [X thread](https://twitter.com/shreyas/status/1276956836856393728?lang=en)
 - Product Sense
