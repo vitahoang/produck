@@ -9,8 +9,6 @@ Resources about product management that are worth curating
 - [Design](#Design)
 - [Leadership](#Leadership)
 - [Resource](#Resource)
-- [Reference](#Reference)
-
 # Fundamental
 ### Role and Responsibility
 - [Good Product Manager, Bad Product Manager ](https://a16z.com/good-product-manager-bad-product-manager/) - [Ben Horowitz](https://a16z.com/author/ben-horowitz/)
