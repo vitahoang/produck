@@ -1,5 +1,5 @@
 # 🐤 Produck
-Resources about product management that are worth curating
+A curated list of great content for great product folks
 # Table of Content
 - [Fundamental](#Fundamental)
 - [Technical](#Technical)
