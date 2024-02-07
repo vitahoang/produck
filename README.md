@@ -142,6 +142,17 @@ Resources about product management that are worth curating
 	- [Ant](<https://ant.design/>)
 	- [Daisy UI](https://daisyui.com/components/table/)
 	- [TailwindUI](<https://tailwindui.com/components>)
+- Collection
+	- <https://mobbin.com/browse/ios/apps>
+	- <https://nicelydone.club/>
+	- <https://pagecollective.com/>
+	- <https://www.pttrns.com/>
+	- <https://land-book.com/>
+	- <https://httpster.net/>
+	- <https://onepagelove.com/>
+	- <https://www.niceverynice.com/components>
+	- <https://www.siteinspire.com/>
+	- <https://uijar.com/>
 # Leadership
 ### Role Models
 - [Steve Jobs](<https://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1451648537>)
