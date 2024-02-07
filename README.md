@@ -29,14 +29,14 @@ A curated list of great content for great product folks
 - Product Sense
 	- [How to develop product sense?](https://www.lennysnewsletter.com/p/product-sense) - Lenny
 	- [How to improve product sense?](https://austinyang.co/how-to-improve-product-sense-a-practical-guide/) - Austin Yang
-- Delivery
+- Agile
 	- [The New New Product Development Game](https://hbr.org/1986/01/the-new-new-product-development-game)
 	- [Agile Manifesto](https://agilemanifesto.org/iso/en/manifesto.html)
 		- [Scrum](https://www.scrum.org/resources/what-scrum-module)
 		- [Kanban](https://www.atlassian.com/agile/kanban)
 		- [Extreme Programming](https://en.wikipedia.org/wiki/Extreme_programming)
 		- [Lean](https://en.wikipedia.org/wiki/Lean_manufacturing)
-- [Other Mental Models](https://mmpractices.com/)
+- [Mental Models](https://mmpractices.com/)
 
 ### Interview
 - Books:
