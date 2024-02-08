@@ -56,10 +56,10 @@ A curated list of great content for great product folks
 - Computer
 	- [Python for Everybody Specialization](<https://www.coursera.org/specializations/python>)
 	- [Rest API with Flask and Python](<https://www.udemy.com/course/rest-api-flask-and-python/>)
-	- [CS50](<https://www.edx.org/cs50>)[^4]
+	- [CS50](<https://www.edx.org/cs50>)
 	- [The missing semester](<https://missing.csail.mit.edu/>)
 - Internet
-	- [Computer Networking](https://gaia.cs.umass.edu/kurose_ross/online_lectures.htm) [^3]
+	- [Computer Networking](https://gaia.cs.umass.edu/kurose_ross/online_lectures.htm) 
 - Infrastructure
 	- [AWS Cloud Practitioner Essentials](%3Chttps://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-cloud-practitioner-essentials%3E)
 - Interesting Paper
