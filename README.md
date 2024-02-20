@@ -37,7 +37,9 @@ A curated list of great content for great product folks
 		- [Extreme Programming](https://en.wikipedia.org/wiki/Extreme_programming)
 		- [Lean](https://en.wikipedia.org/wiki/Lean_manufacturing)
 - [Mental Models](https://mmpractices.com/)
-
+- Limitation:
+	- [The Mom Test](https://www.momtestbook.com/) - Rob Fitzpatrick
+	- [The CEO Test](https://twitter.com/shreyas/status/1327518749310676994) - Shreyas Doshi
 ### Interview
 - Books:
 	- [Cracking the PM Interview](https://www.amazon.com/Cracking-PM-Interview-Product-Technology/dp/0984782818)
