@@ -119,6 +119,8 @@ A curated list of great content for great product folks
 - Course:
 	- [Google Data Analytics Professional](https://www.coursera.org/professional-certificates/google-data-analytics)
 	- [Data Analysis with R Specialization](https://www.coursera.org/specializations/statistics)
+- Book 
+	- [Lean Analytics](https://www.amazon.com/Lean-Analytics-Better-Startup-Faster/dp/1449335675)
 - Metric
 	- [Pirate Metrics AARRR](%3Chttps://www.productplan.com/glossary/aarrr-framework/%3E): Acquisition, Activation, Retention, Referral, Revenue
 	- [Product Metrics Primer](https://twitter.com/shreyas/status/1304628719374544896) – [Cheatsheet](https://twitter.com/shreyas/status/1399042792400199681) - Shreyas Doshi
