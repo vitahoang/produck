@@ -136,7 +136,7 @@ A curated list of great content for great product folks
 - Book
 	- [Don't Make Me Think](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515)
 	- [Design Everyday Things](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654)
-- Design System
+- Design System/Kit/Component
 	- [Google Material Design](https://m3.material.io/get-started)
 	- [Apple](https://developer.apple.com/design/)
 	- [Uber](https://base.uber.com/6d2425e9f/p/294ab4-base-design-system)
@@ -146,6 +146,12 @@ A curated list of great content for great product folks
 	- [Ant](<https://ant.design/>)
 	- [Daisy UI](https://daisyui.com/components/table/)
 	- [TailwindUI](<https://tailwindui.com/components>)
+	- <https://ui.aceternity.com/>
+	- <https://saasblocks.app/>
+	- <https://tailkit.com/free-ui-components>
+	- <https://preline.co/examples.html>
+	- <https://floatui.com/components/banners>
+	- <https://flowbite.com/blocks/>
 - Collection
 	- <https://mobbin.com/browse/ios/apps>
 	- <https://nicelydone.club/>
