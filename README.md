@@ -70,18 +70,16 @@ A curated list of great content for great product folks
 - Productivity Hack
 	- MacOS Apps:  
 		- [Obsidian](https://obsidian.md/) – writing, note taking, as a second brain  
-		- [Layout Switcher](https://www.producthunt.com/products/layout-switcher) – simple multitasking desktop  
-		- [Espanso](https://espanso.org/) – writing boilerplates  
-		- [cheatsheet](https://cheatsheet-mac.en.softonic.com/mac) – shortcut of shortcuts  
+		- [Raycast](https://www.raycast.com/) - shortcut for everything 
 		- [Karabiner](https://karabiner-elements.pqrs.org/) – a customized keyboard  
-		- [Clipy](https://github.com/Clipy/Clipy) – copy & paste history  
 		- [Shottr](https://shottr.cc/) – quick screenshot then edit  
+		- [cheatsheet](https://cheatsheet-mac.en.softonic.com/mac) – shortcut of shortcuts  
 	- Chrome Extensions:  
 		- [Checker Plus for Gmail](https://chromewebstore.google.com/detail/checker-plus-for-gmail/oeopbcgkkoapgobdbedcemjljbihmemj)– empty the mailbox  
 		- [Vimium](https://chromewebstore.google.com/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb) - keyboard shortcuts for navigation and control  
 	- Others:  
 		- [Vim key bindings](https://vim.rtorr.com/)everywhere to type and edit blazingly fast
-		- [Brew cask](https://formulae.brew.sh/cask/) to install, manage and quickly update apps>>
+		- [Brew cask](https://formulae.brew.sh/cask/) to install, manage and quickly update apps
 # Problem-solving
 - [Bulletproof Problem Solving: The One Skill That Changes Everything](<https://www.amazon.com/Bulletproof-Problem-Solving-Changes-Everything/dp/1119553024>) 
 - [How to Ask Great Questions](https://hbr.org/2018/05/the-surprising-power-of-questions) 
